@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "learn redux",
+      "status": false
+    },
+    {
+      "task": "ds",
+      "status": false,
+      "id": 2
+    },
+    {
+      "task": "DS",
+      "status": false,
+      "id": 3
+    },
+    {
+      "task": "DS",
+      "status": false,
+      "id": 4
+    },
+    {
+      "task": "EW",
+      "status": false,
+      "id": 5
+    },
+    {
+      "task": "EWY",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
